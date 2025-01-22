@@ -1,0 +1,5 @@
+- [ ] How can I create an empty map?
+- [ ] What happens when you try to get the value of a key not existing in a map?
+- [ ] How can you remove a key value pair from a map?
+- [ ] How can you clear all the contents from a map?
+- [ ] List five utilities you can use in the maps package?

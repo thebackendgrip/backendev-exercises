@@ -1,0 +1,2 @@
+- [ ] How do you define an interface in golang?
+- [ ] How do you implement an interface in golang?

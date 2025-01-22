@@ -1,0 +1,1 @@
+- [ ] Show how you would implement a timeout functionality using Select and Channels with goroutines?

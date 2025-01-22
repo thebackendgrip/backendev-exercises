@@ -1,0 +1,1 @@
+- [ ] How do you immediately stop your program immediately ignoring defer statements?

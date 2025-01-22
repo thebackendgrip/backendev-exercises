@@ -1,0 +1,1 @@
+- [ ] Make the compiler count the number of items in the array

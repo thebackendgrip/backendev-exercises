@@ -1,0 +1,3 @@
+- [ ] What does & do when placed behind a variable?
+- [ ] What type of variables can you place after *?
+- [ ] What does * do when placed before a pointer?

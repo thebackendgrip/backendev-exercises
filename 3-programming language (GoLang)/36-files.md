@@ -1,0 +1,9 @@
+- [ ] How can you get a file descriptor to a file?
+- [ ] How can you read all contents from a file?
+- [ ] How can you read partial content from a file?
+- [ ] How can you read from a particular point in a file?
+- [ ] How can you implement a line filter?
+- [ ] What package helps to work with filepaths that is safe to execute on different OSes?
+- [ ] What package helps to work with directories?
+- [ ] How can you create temp files?
+- [ ] How can you embed a files and folders in your program binary at build time? 

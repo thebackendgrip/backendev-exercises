@@ -1,0 +1,11 @@
+- [ ] What is a rune in Golang?
+- [ ] Can a rune be made up of more than 1 byte?
+- [ ] Is the string same thing as []byte?
+- [ ] Does the len(s) return the length of bytes making up the string?
+- [ ] List 4 functions in the standard strings package?
+- [ ] How can you print a struct with its field names with strings formatting?
+- [ ] How can you print the type of a value? 
+- [ ] How can you print a string value without escaping the quotes?
+- [ ] How do you print the representation of a pointer?
+- [ ] How can you convert a string to a number?
+- [ ] How can you convert a number to a string?

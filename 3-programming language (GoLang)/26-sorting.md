@@ -1,0 +1,5 @@
+- [ ] can you sort built in datatypes by its natural order?
+- [ ] If yes to the above, what standard package helps with this?
+- [ ] Is it possible to sort built in types other than its natural order?
+- [ ] If yes, to the above what standard package helps with this?
+- [ ] Is it possible to sort non-built in types too?

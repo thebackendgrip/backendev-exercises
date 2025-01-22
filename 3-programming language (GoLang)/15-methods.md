@@ -1,0 +1,5 @@
+- [ ] How can you create a method?
+- [ ] Can you have a method on the pointer or value receiver or both?
+- [ ] In what case would it be better to create a method with a pointer receiver?
+- [ ] Do you need to do anything specially to call a method on a pointer receiver?
+- [ ] Will a struct containing an embeded struct inherit the method of an embeded struct?

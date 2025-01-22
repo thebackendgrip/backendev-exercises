@@ -1,0 +1,1 @@
+- [ ] Write a function that takes an interface{} type parameter and uses a switch statement to determine whether the value is an int, float64, string, or some other type.

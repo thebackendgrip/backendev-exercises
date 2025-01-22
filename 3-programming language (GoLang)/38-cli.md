@@ -1,0 +1,3 @@
+- [ ] How can you get cli parameters in your application?
+- [ ] How can you write an application that expects named cli parameters?
+- [ ] How do you create a subcommands?

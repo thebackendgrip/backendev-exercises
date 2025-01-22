@@ -1,0 +1,4 @@
+- [ ] When do you use panic?
+- [ ] What happens when you use panic?
+- [ ] Is it possible to still execute some code after using panic?
+- [ ] If yes to the above, how?

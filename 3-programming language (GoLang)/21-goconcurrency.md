@@ -1,0 +1,22 @@
+- [ ] How are goroutines executed on the OS threads?
+- [ ] How do you invoke a function in a go routine?
+- [ ] How do you send data between goroutines?
+- [ ] What function can you use to create a channel?
+- [ ] How do you specify the data type to pass in a channel?
+- [ ] How do you send data into a channel?
+- [ ] How do you receive data from a channel?
+- [ ] Will a channel by default accept data if there is no receiver?
+- [ ] How can you make a channel accept data if there is no receiver?
+- [ ] How can you use a channel to synchronize execution across goroutines?
+- [ ] Can you specify if a channel a function parameter should only receive or send data?
+- [ ] If yes to the above, how?
+- [ ] How can you wait to get data from multiple channels?
+- [ ] How can you prevent a non blocking channel operation with select?
+- [ ] How do you close a channel?
+- [ ] How can you know when a channel has been closed?
+- [ ] Can you close a non empty channel?
+- [ ] Can you use "range" to iterate over channels?
+- [ ] If yes, to the above, when does iteration terminate?
+- [ ] What are waitGroups used for?
+- [ ] How can you implement a counter across multiple go routines?
+- [ ] How can I write data to a map from multiple goroutines without using any synchronization mechanism?

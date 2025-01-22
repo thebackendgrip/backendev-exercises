@@ -1,0 +1,6 @@
+- [ ] What packages help to create dynamic content in golang?
+- [ ] What is the difference between text/template and html/template packages?
+- [ ] How do you pass values into a template?
+- [ ] How to add field values from a struct/map in a template?
+- [ ] How to use if/else conditional statements in a template?
+- [ ] How to iterate items to add to a template?

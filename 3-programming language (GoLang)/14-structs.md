@@ -1,0 +1,6 @@
+- [ ] What happens when you use a dot on a struct pointer?
+- [ ] Are structs immutable?
+- [ ] When can a struct type be created without a name?
+- [ ] How to embed struct into another?
+- [ ] Do you need to initialise the embedded struct explicitly?
+- [ ] Do you need to access the embedded struct explicitly?

@@ -1,0 +1,2 @@
+- [ ] What is the standard logger in golang?
+- [ ] How to configure stander logger to log output in JSON?

@@ -1,0 +1,2 @@
+- [ ] How can you use less words to specify arguments of a function having the same type?
+- [ ] Create a variadic function that takes in ints as an argument and returns the sum of the values

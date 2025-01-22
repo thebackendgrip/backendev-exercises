@@ -1,0 +1,1 @@
+- [ ] Is it possible to add methods on generic types?

@@ -1,0 +1,7 @@
+- [ ] What method can you use to construct a basic error with a message?
+- [ ] What are sentinel errors?
+- [ ] How can you check if a particular error occured?
+- [ ] What method can I use to wrap an error?
+- [ ] What method does a type need to implement for a struct type to be an error?
+- [ ] How can I check if 
+- [ ] How do I check if an error is of a type and convert it to that type?

@@ -1,0 +1,6 @@
+- [ ] What is the difference between a slice and an array
+- [ ] What is the length of an uninitialised slice?
+- [ ] How to create an empty slice with a non-zero length?
+- [ ] How does the "slice" opeartion work slice[low:high]?
+- [ ] Declare and initialise a variable for a slice
+- [ ] Create a multidimensional slice with a fixed outer length and demonstrate inner dimension can grow
