@@ -1,0 +1,5 @@
+- [ ] How can you apply a patch to files?
+- [ ] How can you apply changes from existing commits?
+- [ ] What command helps to linearise commits on another branch?
+- [ ] What are some drawbacks of the command above?
+- [ ] How can you revert changes applied from previous commits?

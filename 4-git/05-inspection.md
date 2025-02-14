@@ -1,0 +1,4 @@
+- [ ] What command shows the details of an object in git?
+- [ ] What command shows the commit history on a branch?
+- [ ] What command can show the changes between commits OR a commit and a workspace?
+- [ ] What command helps to show the diff between two branches (commit ranges)?

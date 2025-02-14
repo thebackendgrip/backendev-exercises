@@ -1,0 +1,10 @@
+- [ ] What command do you use to add file contents from the workspace to the index?
+- [ ] What command do you use to get a summary of the changed files in the workspace and index?
+- [ ] What command do you use to see file content changes only in the workspace?
+- [ ] How do you extend the command above to see file content changes only in the index?
+- [ ] What command do you use to store changes to the local repository from the index?
+- [ ] How do you revert file changes in workspace?
+- [ ] How do you revert file changes from the index to the workspace?
+- [ ] How do you set the current head to point to another commit?
+- [ ] What command  do you use to remove a file from the workspace and index?
+- [ ] What command can you use to rename a file directly in the index?

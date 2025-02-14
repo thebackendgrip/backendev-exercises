@@ -1,0 +1,5 @@
+- [ ] What command do you use to download objects and refs from a remote repository?
+- [ ] What command downloads objects and refs from a remote repository and updates local branch if behind with changes from remote branch?
+- [ ] What command updates remote refs with local refs?
+- [ ] How can you set the remote repositories that your local repository tracks?
+- [ ] What is the recommened of creating and tracking a sub git repository in another git repository?

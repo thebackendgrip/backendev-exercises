@@ -1,0 +1,3 @@
+- [ ] What command can you help find a commit in a long list of commits that introduced a bug?
+- [ ] What command can show who modified the contents of a file?
+- [ ] What command can you help you find files in commits, branches that contain certain texts/regex patterns?

@@ -1,0 +1,7 @@
+- [ ] What command can you use to create, list and delete branches?
+- [ ] What command can you use to switch branches?
+- [ ] What command can you use to join commits from two branches from the point they diverged?
+- [ ] The merge process tries to merge the diverging commits recursively and creates a new commits at the end, what happens when commits can't be merged because they changed the same line?
+- [ ] What command can you use to save, list, apply changes in the stash?
+- [ ] How can you create a snapshot that is human readable e.g a stable release to be deployed?
+- [ ] What command allows you to work on multiple branches at the same time? e.g creating a hotfix without interrupting your current work progress

@@ -1,0 +1,9 @@
+- [ ] What does git being distributed mean?
+- [ ] How would you describe what a stash is in git?
+- [ ] How would you describe what a workspace is? 
+- [ ] How would you describe what an index/staging area is?
+- [ ] How would you desribe what the local repository is?
+- [ ] How would you describe what the upstream/remote repository is?
+- [ ] How do you initialize a local repository?
+- [ ] What directory is the local repository stored?
+- [ ] What command do you use to get a copy of remote repository locally?
