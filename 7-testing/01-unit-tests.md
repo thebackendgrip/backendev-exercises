@@ -1,0 +1,3 @@
+- [ ] Go testing package
+- [ ] Behaviour Driven Design Tests - https://medium.com/lensesio/declarative-bdd-with-golang-3f5f6a1ac5a8 
+- [ ] Different types of tests - Isolation, Unit, Integration, E2E

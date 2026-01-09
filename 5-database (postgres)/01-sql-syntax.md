@@ -1,0 +1,15 @@
+- [ ] What is a command?
+- [ ] What are the two ways to terminate a command?
+- [ ] What are tokens?
+- [ ] List four command names?
+- [ ] What are the three types of constants?
+- [ ] List at least 7 operator characters in postgres
+- [ ] List at least 7 special characters that are not operators
+- [ ] List 5 operators that have left associativity
+- [ ] List 2 operators that have right associativity
+- [ ] List 5 aggregrate functions in postgres
+- [ ] What are the 2 ways you can do type casting in postgres?
+- [ ] What is a row contructor?
+- [ ] Does somefunc() in "SELECT somefunc() OR ture" get evaluated?
+- [ ] Does somefunc() in "SELECT true OR somefunc()" get evaluated?
+- [ ] How can one enforce evaluation order in postgres queries?

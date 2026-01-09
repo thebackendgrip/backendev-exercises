@@ -1,0 +1,3 @@
+- [ ] Create a factory struct with a method that can create different breeds of dogs by passing the breed name
+- [ ] The dog should have the following functionalities - walk, bark and  sleep
+- [ ] When should you use a factory method?
